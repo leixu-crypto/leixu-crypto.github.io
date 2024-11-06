@@ -63,7 +63,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 ## Journal Papers
 
 - [Sketch-based Adaptive Communication Optimization in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10707306) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TC 2024](https://img.shields.io/badge/TC-2024-blue?style=flat-square)   
-  Pan Zhang, **Lei Xu**, Lin Mei, Chungen Xu  
+  Pan Zhang, **Lei Xu**\*, Lin Mei, Chungen Xu\*  
   *IEEE Transactions on Computers (**TDSC**), 2024* 
 
 - [Toward Full Accounting for Leakage Exploitation and Mitigation in Dynamic Encrypted Databases](https://ieeexplore.ieee.org/document/10185078) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2024](https://img.shields.io/badge/TDSC-2024-blue?style=flat-square)   
