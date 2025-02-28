@@ -29,9 +29,9 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 ## Conference Papers  
 
-- [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries]![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC'25](https://img.shields.io/badge/USENIX SEC-2024-blue?style=flat-square)  
+- [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries]![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC'25](https://img.shields.io/badge/USENIX SEC-2025-blue?style=flat-square)  
   Longxing Wang, **Lei Xu**, Yufei Chen, Ying Zou, Cong Wang  
-  *In Proc. of the 34th USENIX Security Symposium (**SEC'25**), 2025* 
+  *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC'25**), 2025 (To appear)* 
 
 - [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://dl.acm.org/doi/10.14778/3675034.3675038) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)  
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
@@ -66,6 +66,10 @@ I am currently an associate professor in School of Mathematics and Statistics, N
    *In Proc. of the 14th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS’19**), 2019*.  
 
 ## Journal Papers
+
+- [Query Correlation Attack Against Searchable Symmetric Encryption With Supporting for Conjunctive Queries](https://ieeexplore.ieee.org/document/10855610) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
+  Hanyong Liu, **Lei Xu**\*, Xiaoning Liu, Lin Mei, Chungen Xu\*  
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025* 
 
 - [Sketch-based Adaptive Communication Optimization in Federated Learning](https://ieeexplore.ieee.org/abstract/document/10707306) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TC 2024](https://img.shields.io/badge/TC-2024-blue?style=flat-square)   
   Pan Zhang, **Lei Xu**\*, Lin Mei, Chungen Xu\*  
