@@ -67,6 +67,10 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 ## Journal Papers
 
+- [Do Not Skip over the Offline: Verifiable Silent Preprocessing from Small Security Hardware](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
+  Wentao Dong, **Lei Xu**, Leqian Zheng, Huayi Duan, Cong Wang, Qian Wang  
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025* 
+
 - [Query Correlation Attack Against Searchable Symmetric Encryption With Supporting for Conjunctive Queries](https://ieeexplore.ieee.org/document/10855610) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
   Hanyong Liu, **Lei Xu**\*, Xiaoning Liu, Lin Mei, Chungen Xu\*  
   *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025* 
