@@ -31,7 +31,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-190-wang-longxiang.pdf) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC'25](https://img.shields.io/badge/USENIX SEC-2025-blue?style=flat-square)  
   Longxing Wang, **Lei Xu**, Yufei Chen, Ying Zou, Cong Wang  
-  *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC'25**), 2025 (To appear)* 
+  *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC'25**), 2025* 
 
 - [SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores](https://dl.acm.org/doi/10.14778/3675034.3675038) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![VLDB 2024](https://img.shields.io/badge/VLDB-2024-blue?style=flat-square)  
   Leqian Zheng, **Lei Xu**, Cong Wang, Sheng Wang, Yuke Hu, Zhan Qin, Feifei Li, Kui Ren  
