@@ -68,7 +68,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 ## Journal Papers
 
 - [Scaling Metadata-private Messaging under Hardware Trust](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TON 2025](https://img.shields.io/badge/TON-2025-blue?style=flat-square)  
-  Peipei Jiang, Yihao Wu, Jianhao Cheng, Lei Xu, Shenglong Yao, Qian Wang, Cong WANG, Kui Ren
+  Peipei Jiang, Yihao Wu, Jianhao Cheng, Lei Xu, Shenglong Yao, Qian Wang, Cong WANG, Kui Ren  
   *IEEE Transactions on Networking (**TON**), 2025* 
 
 - [Do Not Skip over the Offline: Verifiable Silent Preprocessing from Small Security Hardware](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
