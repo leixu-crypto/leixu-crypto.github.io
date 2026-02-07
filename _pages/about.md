@@ -75,7 +75,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   Peipei Jiang, Yihao Wu, Jianhao Cheng, **Lei Xu**, Shenglong Yao, Qian Wang, Cong WANG, Kui Ren  
   *IEEE Transactions on Networking (**TON**), vol. 34, pp. 1495 - 1510, 2026*
 
-  - [RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/11230655) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
+- [RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/11230655) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
   Pan Zhang, **Lei Xu**, Chungen Xu, Lin Mei, Yiting Liu  
   *IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 20, pp. 12707 - 12722, 2025* 
 
