@@ -73,11 +73,15 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Scaling Metadata-private Messaging under Hardware Trust](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TON 2026](https://img.shields.io/badge/TON-2026-blue?style=flat-square)  
   Peipei Jiang, Yihao Wu, Jianhao Cheng, **Lei Xu**, Shenglong Yao, Qian Wang, Cong WANG, Kui Ren  
-  *IEEE Transactions on Networking (**TON**), vol. 34, pp. 1495 - 1510, 2026* 
+  *IEEE Transactions on Networking (**TON**), vol. 34, pp. 1495 - 1510, 2026*
+
+  - [RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/11230655) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
+  Pan Zhang, **Lei Xu**, Chungen Xu, Lin Mei, Yiting Liu  
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 20, pp. 12707 - 12722, 2025* 
 
 - [Do Not Skip over the Offline: Verifiable Silent Preprocessing from Small Security Hardware](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
   Wentao Dong, **Lei Xu**, Leqian Zheng, Huayi Duan, Cong Wang, Qian Wang  
-  *IEEE Transactions on Information Forensics and Security (**TIFS**), 2025* 
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 20, pp. 4860 - 4873, 2025* 
 
 - [Query Correlation Attack Against Searchable Symmetric Encryption With Supporting for Conjunctive Queries](https://ieeexplore.ieee.org/document/10855610) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
   Hanyong Liu, **Lei Xu**\*, Xiaoning Liu, Lin Mei, Chungen Xu\*  
