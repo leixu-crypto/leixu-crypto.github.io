@@ -69,7 +69,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Sensitivity-aware Auditing Service for Differentially Private Databases](https://ieeexplore.ieee.org/document/11373193) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2026](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square)  
   **Lei Xu**, Yixuan He, Xingliang Yuan, Chungen Xu, Cong WANG  
-  *IEEE Transactions on Information Forensics and Security (**TIFS**), 2026* 
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 21, pp. 2017 - 2030, 2026* 
 
 - [Scaling Metadata-private Messaging under Hardware Trust](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TON 2026](https://img.shields.io/badge/TON-2026-blue?style=flat-square)  
   Peipei Jiang, Yihao Wu, Jianhao Cheng, **Lei Xu**, Shenglong Yao, Qian Wang, Cong WANG, Kui Ren  
