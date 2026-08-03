@@ -25,7 +25,8 @@ jobs:
       run: pip install scholarly jsonpickle
 
     - name: Run update script
-      run: python google_scholar_crawler/main.py
+      timeout-minutes: 3
+      run: timeout 120s python google_scholar_crawler/main.py
 
     - name: Commit and push changes
       run: |
