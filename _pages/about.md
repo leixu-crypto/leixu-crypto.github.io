@@ -77,11 +77,15 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 
 - [Sensitivity-aware Auditing Service for Differentially Private Databases](https://ieeexplore.ieee.org/document/11373193) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2026](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square)  
   **Lei Xu**, Yixuan He, Xingliang Yuan, Chungen Xu, Cong Wang  
-  *IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 21, pp. 2017 - 2030, 2026* 
+  *IEEE Transactions on Information Forensics and Security (**TIFS**), vol. 21, pp. 2017 - 2030, 2026*
+
+- [Anonymous Messaging Made More Flexible With PingPong](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723154) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TON 2026](https://img.shields.io/badge/TON-2026-blue?style=flat-square)  
+  Peipei Jiang, Yihao Wu, **Lei Xu**, Wentao Dong, Peiyuan Chen, Yulong Ming  
+  *IEEE Transactions on Networking (**TON**), vol. 34, pp. 4068–4083, 2026*
 
 - [Scaling Metadata-private Messaging under Hardware Trust](https://ieeexplore.ieee.org/abstract/document/10938283) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TON 2026](https://img.shields.io/badge/TON-2026-blue?style=flat-square)  
   Peipei Jiang, Yihao Wu, Jianhao Cheng, **Lei Xu**, Shenglong Yao, Qian Wang, Cong WANG, Kui Ren  
-  *IEEE Transactions on Networking (**TON**), vol. 34, pp. 1495 - 1510, 2026*
+  *IEEE Transactions on Networking (**TON**), vol. 34, pp. 1495 - 1510, 2025*
 
 - [RDCBA-FEL: Robust Defense Against Colluded Backdoor Attacks in Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/11230655) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2025](https://img.shields.io/badge/TIFS-2025-blue?style=flat-square)   
   Pan Zhang, **Lei Xu**, Chungen Xu, Lin Mei, Yiting Liu  
