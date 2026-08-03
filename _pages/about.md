@@ -33,7 +33,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
   Jinhui Li, **Lei Xu**, Xiaoning Liu, Xun Yi, Ibrahim Khalil, Kwok-Yan Lam  
   *In Proc. of the Network and Distributed System Security Symposium (**NDSS'27**), 2027* 
 
-- [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-190-wang-longxiang.pdf) ![USENIX SEC'25](https://img.shields.io/badge/USENIX_SEC-2025-blue?style=flat-square) ![USENIX SEC'25](https://img.shields.io/badge/USENIX SEC-2025-blue?style=flat-square)  
+- [ALERT: Machine Learning-Enhanced Risk Estimation for Databases Supporting Encrypted Queries](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-190-wang-longxiang.pdf) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![USENIX SEC'25](https://img.shields.io/badge/USENIX_SEC-2025-blue?style=flat-square)   
   Longxing Wang, **Lei Xu**, Yufei Chen, Ying Zou, Cong Wang  
   *In Proc. of the 34th USENIX Security Symposium (**USENIX SEC'25**), 2025* 
 
