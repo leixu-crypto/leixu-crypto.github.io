@@ -72,7 +72,7 @@ I am currently an associate professor in School of Mathematics and Statistics, N
 ## Journal Papers
 
 - [Forward and Backward Private Disjunctive Dynamic Searchable Symmetric Encryption with Leakage Suppression](https://ieeexplore.ieee.org/document/11543186) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TDSC 2026](https://img.shields.io/badge/TDSC-2026-blue?style=flat-square)  
-  Xiaojun Zhang, **Lei Xu***, Xingliang Yuan, Yifeng Zheng, Lin Mei, Chungen Xu  
+  Xiaojun Zhang, **Lei Xu** *, Xingliang Yuan, Yifeng Zheng, Lin Mei, Chungen Xu  
   *IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2026*
 
 - [Sensitivity-aware Auditing Service for Differentially Private Databases](https://ieeexplore.ieee.org/document/11373193) ![CCF A](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![TIFS 2026](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square)  
