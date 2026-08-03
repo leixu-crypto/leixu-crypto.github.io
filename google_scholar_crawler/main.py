@@ -1,34 +1,43 @@
-from scholarly import scholarly
 import json
 import os
-import signal
+import urllib.parse
+import urllib.request
 
-# 设置超时（例如 60 秒）
-def timeout_handler(signum, frame):
-    raise TimeoutError("Execution timed out")
+AUTHOR_ID = "HY5jH_MAAAAJ"
+API_KEY = os.environ["SERPAPI_KEY"]
 
-signal.signal(signal.SIGALRM, timeout_handler)
-signal.alarm(60)
+params = urllib.parse.urlencode({
+    "engine": "google_scholar_author",
+    "author_id": AUTHOR_ID,
+    "hl": "en",
+    "api_key": API_KEY,
+})
+
+url = f"https://serpapi.com/search.json?{params}"
 
 try:
-    author = scholarly.search_author_id('HY5jH_MAAAAJ')
-    scholarly.fill(author, sections=['indices'])
+    with urllib.request.urlopen(url, timeout=30) as response:
+        data = json.load(response)
 
-    shieldio_data = {
+    if "error" in data:
+        raise RuntimeError(data["error"])
+
+    citations = data["cited_by"]["table"][0]["citations"]["all"]
+
+    badge_data = {
         "schemaVersion": 1,
         "label": "citations",
-        "message": str(author.get('citedby', 'N/A')),
-        "color": "9cf"
+        "message": str(citations),
+        "color": "9cf",
     }
 
     os.makedirs("results", exist_ok=True)
-    with open("results/gs_data.json", "w") as f:
-        json.dump(shieldio_data, f)
 
-except TimeoutError:
-    print("❌ Script timed out.")
-    exit(1)
+    with open("results/gs_data.json", "w", encoding="utf-8") as output:
+        json.dump(badge_data, output)
 
-except Exception as e:
-    print("❌ An error occurred:", e)
-    exit(1)
+    print(f"Google Scholar citations updated to {citations}")
+
+except Exception as error:
+    print(f"Failed to update citations: {error}")
+    raise
